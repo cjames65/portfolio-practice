@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #B5A98F;
+}
+header, footer {
+  background-color: gray;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+header {
+  margin-top: 0px;
+  border-color: #B5A98F
+  
+}
+.pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+main {
+  text-align: center;
+  padding: 10px;
+  margin: 10px
+}
+ul, ol {
+  list-style-position: inside;
+}
